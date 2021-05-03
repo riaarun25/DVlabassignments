@@ -22,4 +22,5 @@ Dataset – Covid-19 Indian dataset from Kaggle
 
 https://www.kaggle.com/sudalairajkumar/covid19-in-india
 #
-
+### dvlab3.py
+Dataset - For height and weight plot take any random 20 values of your choice
